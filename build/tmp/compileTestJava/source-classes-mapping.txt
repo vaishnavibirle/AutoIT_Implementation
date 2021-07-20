@@ -1,0 +1,2 @@
+com/blz/selenium/test/Auto_IT_Test.java
+ com.blz.selenium.test.Auto_IT_Test

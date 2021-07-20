@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.Auto_IT_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-15T11:06:46" hostname="LAPTOP-GG01EQKS" time="53.076">
+  <properties/>
+  <testcase name="loginTest" classname="com.blz.selenium.test.Auto_IT_Test" time="53.076"/>
+  <system-out><![CDATA[Your file is uploaded successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
